@@ -4,20 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5df42bb518f172a2be40c6df4ab467fb",
+    "content-hash": "4868a978e5cb71ccb8d42b3112457a16",
     "packages": [
         {
             "name": "phpstan/phpstan",
-            "version": "2.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "72115ab2bf1e40af1f9b238938d493ba7f3221e7"
-            },
+            "version": "2.1.37",
             "dist": {
                 "type": "zip",
-                "url": "https://jfrogghdemo.jfrog.io/artifactory/api/composer/dependabot-php/vcs-dists/zip/phpstan/phpstan/72115ab2bf1e40af1f9b238938d493ba7f3221e7",
-                "reference": "72115ab2bf1e40af1f9b238938d493ba7f3221e7",
+                "url": "https://jfrogghdemo.jfrog.io/artifactory/api/composer/dependabot-php/vcs-dists/zip/phpstan/phpstan/28cd424c5ea984128c95cfa7ea658808e8954e49",
+                "reference": "28cd424c5ea984128c95cfa7ea658808e8954e49",
                 "shasum": ""
             },
             "require": {
@@ -61,7 +56,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-11-11T07:06:55+00:00"
+            "time": "2026-01-24T08:21:55+00:00"
         }
     ],
     "packages-dev": [],
